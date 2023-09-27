@@ -1,4 +1,4 @@
-package git_test2;
+package git_test22;
 public class Hello {
  
  String message = "안녕하세요";
